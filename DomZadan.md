@@ -14,7 +14,7 @@
 
 [Ссылка на кинопоиск](https://hd.kinopoisk.ru/)
 
-> Цитата
+> **Цитата**
 
 ![Картинка](https://www.meme-arsenal.com/memes/78ff6f74cf17bab4c67d39308f1e8bf0.jpg)
 
