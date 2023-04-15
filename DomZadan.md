@@ -17,3 +17,7 @@
 > Цитата
 
 ![Картинка](https://www.meme-arsenal.com/memes/78ff6f74cf17bab4c67d39308f1e8bf0.jpg)
+
+# Чуть больше текста, например выдержка про Git из википедии
+
+Git (произносится «гит») — распределённая [система управления версиями](https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8). Проект был создан [Линусом Торвальдсом](https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D1%80%D0%B2%D0%B0%D0%BB%D1%8C%D0%B4%D1%81,_%D0%9B%D0%B8%D0%BD%D1%83%D1%81) для управления разработкой [ядра Linux](https://ru.wikipedia.org/wiki/%D0%AF%D0%B4%D1%80%D0%BE_Linux), первая версия выпущена [7 апреля](https://ru.wikipedia.org/wiki/7_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F) [2005](https://ru.wikipedia.org/wiki/2005_%D0%B3%D0%BE%D0%B4) года. На сегодняшний день его поддерживает [Джунио Хамано](https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BC%D0%B0%D0%BD%D0%BE,_%D0%94%D0%B7%D1%8E%D0%BD).
